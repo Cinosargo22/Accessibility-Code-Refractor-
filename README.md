@@ -1,31 +1,36 @@
+# Horiseon Code Refactor
+
 ## Description
 In this challenge, I refactored the code to fit the following criteria...
-
-Meets accessibility standards
-Contains semantic HTML elements
-HTML elements follow a logical structure independent of styling and positioning
-Accessible alt attributes on image elements
-Heading attributes fall in sequential order
-Title element is concise and descriptive
-
-## Webpage
-Horiseon SEO specializes in:
-
-Search Engine Optimization
-Online Reputation Management
-Social Media Marketing
-Accesibility Update
-The webpage has been updated to have accesibility assistance for people usisng a page reader. The alt text has been added to give detailed descriptions of images and logos on the page. It was tested using NVDA for Microssoft and has met standars.
-
-## Deployed Link
+- Meets accessibility standards
+- Contains semantic HTML elements
+- HTML elements follow a logical structure independent of styling and positioning
+- Accessible alt attributes on image elements
+- Heading attributes fall in sequential order
+- Title element is concise and descriptive
 
 
 
-## User Story
+## Table of Contents
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributors](#contributors)
+- [Tests](#tests)
+- [Technology Used](#technology-used)
+- [Questions](#questions)
+
+# User Story
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-Acceptance Criteria
+```
+
+# Acceptance Criteria
+```
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -37,15 +42,15 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
-Installation
-To install this application, clone the code into your terminal for the respective repository.
+```
+
+## Installation
+ To install this application, clone the code into your terminal for the respective repository.
 
 ## Usage
 Use the navigation bar to navigate through different sections of the webpage.
 
-## Code Refractor
-The HTML and CSS code has been updated for a cleaner layout on VSCODE.
-
 ## Technology Used
-HTML 5
-CSS
+- HTML 
+- CSS
+
