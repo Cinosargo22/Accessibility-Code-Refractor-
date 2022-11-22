@@ -9,19 +9,6 @@ In this challenge, I refactored the code to fit the following criteria...
 - Heading attributes fall in sequential order
 - Title element is concise and descriptive
 
-
-
-## Table of Contents
-- [Description](#description)
-- [User Story](#user-story)
-- [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributors](#contributors)
-- [Tests](#tests)
-- [Technology Used](#technology-used)
-- [Questions](#questions)
-
 # User Story
 ```
 AS A marketing agency
